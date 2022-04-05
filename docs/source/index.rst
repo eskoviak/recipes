@@ -9,6 +9,7 @@ Chef Edmund's Notes
    sections/introduction
    sections/breads/index
    sections/desserts/index
+   sections/entrees/index
 
 
 Indices and tables
