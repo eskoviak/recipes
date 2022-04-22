@@ -1,9 +1,9 @@
-=======
-Entrees
-=======
+====
+Dips
+====
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   peachy_protein
+   garlic_hummus
