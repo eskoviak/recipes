@@ -19,3 +19,4 @@ help:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 	cp -R build/html/ /var/www/html/recipes
+ 	#scp -r ./build/html/* eskoviak@192.168.1.10:/var/www/html/recipes
