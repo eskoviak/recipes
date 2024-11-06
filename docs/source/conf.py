@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Recipes'
-copyright = '2022, Ed Skoviak'
+copyright = '2022-2024, Ed Skoviak'
 author = 'Ed Skoviak'
 
 # The full version, including alpha/beta/rc tags

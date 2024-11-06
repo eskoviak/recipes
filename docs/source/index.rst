@@ -7,6 +7,7 @@ Chef Edmund's Notes
    :caption: Contents:
 
    sections/introduction
+   sections/basics/index
    sections/breads/index
    sections/desserts/index
    sections/entrees/index
