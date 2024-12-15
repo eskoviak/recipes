@@ -4,23 +4,40 @@ Gluten-Free Flour
 Introduction
 ^^^^^^^^^^^^
 
-A basic gloten-free flour to use 1:1 as regular flour
+A basic gluten-free flour to use 1:1 as regular flour.  High in protien
 
 Ingredients
 ^^^^^^^^^^^
 
-+--------------------+-------------------+-------------------+
-|  Measure (English) |  Measure (metric) |  Ingredient       |
-|                    |                   |                   |
-+====================+===================+===================+
-| --                 | 120 g             | Almond flour      |
-+--------------------+-------------------+-------------------+
-| --                 |  40 g             | Tapioca flour     |
-+--------------------+-------------------+-------------------+
-| --                 |  20 g             | Coconut flour     |
-+--------------------+-------------------+-------------------+
-| --                 |  60 g             | Protien powder    |
-+--------------------+-------------------+-------------------+
-| --                 |  60 g             | Oat flour         |
-+--------------------+-------------------+-------------------+
+.. list-table:: Ingredients
+    :widths: 40, 40, 60
+    :header-rows: 1
+
+    * - Amount (English)
+      - Amount (Metric)
+      - Description
+    * - --
+      - 100 g
+      - Almond flour
+    * - --
+      - 80 g
+      - Oat flour
+    * - --
+      - 60 g
+      - Unflavored protien powder
+    * - --
+      - 60 g
+      - Tapioca Flour
+    * - --
+      - 30 g
+      - Psyllium powder
+    * - --
+      - 30 g
+      - Coconut flour
+
+Steps
+^^^^^
+
+Combine the ingredints in a bowl and whisk until well mixed.  Makes about three cups.  If storing, place in an air-tight container.
+
 
