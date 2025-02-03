@@ -8,6 +8,7 @@ Chef Edmund's Notes
 
    sections/introduction
    sections/basics/index
+   sections/juices/index
    sections/breads/index
    sections/desserts/index
    sections/entrees/index
