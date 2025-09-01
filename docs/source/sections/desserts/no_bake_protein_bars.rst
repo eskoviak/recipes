@@ -17,6 +17,7 @@ These no-bake protein bars are a quick and easy snack that can be made with simp
       - Chopped dates, figs and/or apricots
     * - 2 T
       - 30 ml
+      - Water
     * - ¼ cup
       - 60 ml
       - Honey
